@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+nclEclipseRemoteSettings=system.background-color\#\#\#\#000000@@@@default.focusBorderColor\#\#\#\#blue@@@@default.selBorderColor\#\#\#\#green@@@@default.focusBorderWidth\#\#\#\#3@@@@default.focusBorderTransparency\#\#\#\#0
+nclEclipseRemoteSettingsPath=/usr/local/etc/ginga/files/contextmanager/contexts.ini
+nclEclipseSshIpRunPreference=192.168.64.129
+nclEclipseSshPasswRunPreference=telemidia
+nclEclipseSshScriptRunPreference=/misc/launcher.sh
+nclEclipseSshUserRunPreference=root
+nclEclipseSshWorkspaceRunPreference=/misc/ncl30

@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+pathvariable.ArduinoLibPath=/opt/arduino-1.6.6/libraries
+pathvariable.ArduinoPath=/opt/arduino-1.6.6
+pathvariable.ArduinoPivateLibPath=/opt/arduino-1.6.6/libraries
+pathvariable.ArduinoPrivateLibPath=/opt/arduino-1.6.6/libraries
+version=1

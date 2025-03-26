@@ -1,0 +1,10 @@
+Arduino\ Board=
+Arduino\ Custom\ Option\ Selections=
+Arduino\ IDE\ Version=1.6.6
+Arduino\ Path=/opt/arduino-1.6.6
+Arduino\ Port=
+Arduino\ boards\ file=
+Build\ before\ upload\ option=ASK
+Private\ Library\ Path=/opt/arduino-1.6.6/libraries
+Private\ hardware\ Path=/opt/arduino-1.6.6/hardware
+eclipse.preferences.version=1
